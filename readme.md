@@ -1,8 +1,8 @@
-# はなリサボタン
+# なずなボタン
 
 ## なにこれ？
-[動くものはこちらから。](https://niltea.github.io/hanarisa-button/)
-ボタンを押すと、[はなリサちゃん](https://www.youtube.com/channel/UCurEA8YoqFwimJcAuSHU0MQ)がお話ししてくれます。
+[動くものはこちらから。](https://niltea.github.io/test/)
+ボタンを押すと、[なずなちゃん](https://www.youtube.com/channel/UCurEA8YoqFwimJcAuSHU0MQ)がお話ししてくれます。
 
 ## 実装
 ボタンの[data-voice]属性に指定されたファイル名に基づき音声を読み込み、
@@ -10,4 +10,5 @@
 
 ## ライセンス
 音声に関わる権利は全て元著作者に帰属します。
+音声以外の部分については[渋沢タカシさん](https://twitter.com/niltea)の[ソースコード](https://github.com/niltea/hanarisa-button)を改変して作成しました。
 その他の部分については[CC-BY-NC-SA-4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)に基づき自由にご利用ください。
