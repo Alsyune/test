@@ -1,7 +1,7 @@
 # なずなボタン
 
 ## なにこれ？
-[動くものはこちらから。](https://niltea.github.io/test/)
+[動くものはこちらから。](https://alsyune.github.io/test/)
 ボタンを押すと、[なずなちゃん](https://www.youtube.com/channel/UCurEA8YoqFwimJcAuSHU0MQ)がお話ししてくれます。
 
 ## 実装
