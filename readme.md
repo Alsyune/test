@@ -2,7 +2,7 @@
 
 ## なにこれ？
 [動くものはこちらから。](https://alsyune.github.io/test/)
-ボタンを押すと、[なずなちゃん]https://www.youtube.com/c/%E3%81%AA%E3%81%9A%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8BNazunaChannel)がお話ししてくれます。
+ボタンを押すと、[なずなちゃん](https://www.youtube.com/c/%E3%81%AA%E3%81%9A%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8BNazunaChannel)がお話ししてくれます。
 
 ## 実装
 ボタンの[data-voice]属性に指定されたファイル名に基づき音声を読み込み、
